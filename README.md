@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9bbdaa8a-14f0-4fb9-a7e3-7085d0a8ad42)# React_Basic
+# React
 ## 1. Core React Concepts
 <h4>JSX (JavaScript XML):</h4> Learn how to write HTML-like code in JavaScript using JSX.
 <h4>Components:</h4> Understand the building blocks of React. There are two main types:
